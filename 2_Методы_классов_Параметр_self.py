@@ -28,8 +28,7 @@ class Point:
 pt = Point()
 pt.coords(10,20)
 print(pt.get())
->>> 10
->>> 20   '''
+>>> 10   '''
 
 #объявляем объект класса
 pt = Point()

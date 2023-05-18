@@ -7,3 +7,5 @@
 ### [Немного практики по ООП](https://academy.yandex.ru/handbook/python?utm_source=telegram&utm_medium=social&utm_campaign=handbook_python_aon&utm_content=python_pssss)
 
 ## [МНОГО ПРАКТИКИ ПО ООП (курс на степике от того же автора)](https://stepik.org/116336)
+
+18.05.2023 - вероятнее всего не буду больше писать конспект т.к. на степике все есть. Это конспект заменял мне практику в некотором смысле. Я еще подумаю, будет ли в этом необходимость 
